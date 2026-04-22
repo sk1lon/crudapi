@@ -1,0 +1,2 @@
+ALTER TABLE users ADD o_sebe VARCHAR(20)
+
